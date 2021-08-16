@@ -10,8 +10,8 @@
 * Part 2 https://www.coursera.org/learn/nand2tetris2
 
 ## Software
-[Download the Nand2tetris Software Suite](https://drive.google.com/open?id=1xZzcMIUETv3u3sdpM_oTJSTetpVee3KZ) Version 2.6 (about 730K).
-[Setup Guide for Apple MacOS](https://drive.google.com/file/d/1QDYIvriWBS_ARntfmZ5E856OEPpE4j1F/view)
+* [Download the Nand2tetris Software Suite](https://drive.google.com/open?id=1xZzcMIUETv3u3sdpM_oTJSTetpVee3KZ) Version 2.6 (about 730K).
+* [Setup Guide for Apple MacOS](https://drive.google.com/file/d/1QDYIvriWBS_ARntfmZ5E856OEPpE4j1F/view)
 ## Projects
 The complete Nand to Tetris experience spans 12 projects. Each project consists of project materials, a lecture, and a book chapter:
 
