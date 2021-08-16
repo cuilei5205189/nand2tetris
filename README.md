@@ -2,12 +2,12 @@
 https://www.nand2tetris.org/
 
 ## Books
-EN The Elements of Computing Systems
-CN 计算机系统要素
+* EN The Elements of Computing Systems
+* CN 计算机系统要素
 
 ## Coursera
-Part 1 https://www.coursera.org/learn/build-a-computer
-Part 2 https://www.coursera.org/learn/nand2tetris2
+* Part 1 https://www.coursera.org/learn/build-a-computer
+* Part 2 https://www.coursera.org/learn/nand2tetris2
 
 ## Projects
 The complete Nand to Tetris experience spans 12 projects. Each project consists of project materials, a lecture, and a book chapter:
